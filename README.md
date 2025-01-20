@@ -1,7 +1,7 @@
 
 
 
-# 🚗 ESP8266 IoT Controlled Car with Blynk App
+# 🚗ESP8266 IoT Controlled Car with Blynk App
 
 This project demonstrates how to control a car using an ESP8266 microcontroller and the Blynk IoT platform. The car's movements—forward, backward, left, and right—are controlled via a smartphone app, and a servo motor is included for additional functionality.
 
